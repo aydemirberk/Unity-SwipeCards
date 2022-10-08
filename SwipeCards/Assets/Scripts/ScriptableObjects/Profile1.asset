@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e74a47b6df71541d7bdc24d825db08b1, type: 3}
+  m_Name: Profile1
+  m_EditorClassIdentifier: 
+  name: Allison
+  age: 22
+  description: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod
+    tempor incididunt ut labore et dolore magna aliqua. Nunc vel risus commodo viverra
+    maecenas accumsan. Pretium vulputate sapien nec sagittis. '
+  profilePicture: {fileID: 21300000, guid: 4ae3fde59459e4a288009f56d325c17c, type: 3}
